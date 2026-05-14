@@ -3,7 +3,6 @@
 ## Project Overview
 This project analyzes telecom customer churn data using SQL and Tableau to identify churn patterns, customer risk factors, and revenue impact through KPI analysis, segmentation, and dashboard visualization.
 
----
 
 ## Tools Used
 - SQL (SQLite)
