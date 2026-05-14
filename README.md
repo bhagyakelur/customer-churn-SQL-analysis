@@ -59,4 +59,4 @@ Dataset used: Telco Customer Churn Dataset
 
 ## Dashboard Preview
 
-![Customer Churn Dashboard](dashboard/customer_churn_dashboard.png)
+![Customer Churn Dashboard](customer_churn_dashboard.png)
